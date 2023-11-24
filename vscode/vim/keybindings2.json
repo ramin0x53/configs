@@ -13,4 +13,8 @@
         "command": "toggleVim",
         "key": "alt+h"
     },
+    {
+        "key": "ctrl+p",
+        "command": "workbench.action.quickOpen"
+    },
 ]
