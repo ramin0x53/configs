@@ -18,13 +18,13 @@
         "command": "workbench.action.quickOpen"
     },
     {
-    "key": "shift+alt+up",
-    "command": "editor.action.insertCursorAbove",
-    "when": "editorTextFocus"
+        "key": "shift+alt+up",
+        "command": "editor.action.insertCursorAbove",
+        "when": "editorTextFocus"
     },
     {
-    "key": "shift+alt+down",
-    "command": "editor.action.insertCursorBelow",
-    "when": "editorTextFocus"
+        "key": "shift+alt+down",
+        "command": "editor.action.insertCursorBelow",
+        "when": "editorTextFocus"
     }
 ]
