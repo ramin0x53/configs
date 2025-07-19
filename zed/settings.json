@@ -7,5 +7,6 @@
     "light": "One Light",
     "dark": "Ayu Dark"
   },
-  "vim_mode": true
+  "vim_mode": true,
+  "relative_line_numbers": true
 }
