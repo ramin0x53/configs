@@ -7,6 +7,12 @@
     "light": "One Light",
     "dark": "Ayu Dark"
   },
+  "indent_guides": {
+    "enabled": true,
+    "line_width": 1,
+    "active_line_width": 2,
+    "coloring": "fixed"
+  },
   "vim_mode": true,
   "relative_line_numbers": true
 }
