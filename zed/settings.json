@@ -5,13 +5,19 @@
   "theme": {
     "mode": "system",
     "light": "One Light",
-    "dark": "Ayu Dark"
+    "dark": "GitHub Dark Default"
   },
   "indent_guides": {
-    "enabled": true,
+    "enabled": false,
     "line_width": 1,
     "active_line_width": 2,
     "coloring": "fixed"
+  },
+  "diagnostics": {
+    "inline": {
+      "enabled": true,
+      "max_severity": null
+    }
   },
   "vim_mode": true,
   "relative_line_numbers": true
