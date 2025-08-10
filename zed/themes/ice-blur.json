@@ -260,12 +260,12 @@
             "font_weight": null
           },
           "keyword": {
-            "color": "#c678dd",
+            "color": "#DDBDFF",
             "font_style": null,
             "font_weight": null
           },
           "keyword.operator": {
-            "color": "#c678dd",
+            "color": "#DDBDFF",
             "font_style": null,
             "font_weight": null
           },
@@ -629,12 +629,12 @@
             "font_weight": null
           },
           "keyword": {
-            "color": "#c678dd",
+            "color": "#DDBDFF",
             "font_style": null,
             "font_weight": null
           },
           "keyword.operator": {
-            "color": "#c678dd",
+            "color": "#DDBDFF",
             "font_style": null,
             "font_weight": null
           },
