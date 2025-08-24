@@ -3,7 +3,7 @@
   "name": "Ice Blur",
   "author": "Ramin",
   "themes": [
-        {
+    {
       "name": "vs monakai high contrast",
       "appearance": "dark",
       "style": {
@@ -269,7 +269,7 @@
             "font_weight": null
           },
           "type": {
-            "color": "#A6E22E",
+            "color": "#EF49F5",
             "font_style": null,
             "font_weight": null
           },
@@ -289,7 +289,7 @@
             "font_weight": null
           },
           "function": {
-            "color": "#A6E22E",
+            "color": "#2DF792",
             "font_style": null,
             "font_weight": null
           },
