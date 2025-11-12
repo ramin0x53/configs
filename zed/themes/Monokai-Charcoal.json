@@ -1,0 +1,146 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "vsCode Monokai",
+  "author": "Ramin",
+  "themes": [
+    {
+      "name": "Monokai Charcoal",
+      "appearance": "dark",
+      "style": {
+        "background.appearance": "opaque",
+        "accents": [],
+        "border": "#43bad875",
+        "border.variant": "#43bad875",
+        "border.focused": "#43bad875",
+        "border.selected": "#43bad875",
+        "border.transparent": "#43bad875",
+        "border.disabled": "#43bad875",
+        "elevated_surface.background": "#000000",
+        "surface.background": "#000000",
+        "background": "#000000",
+        "element.background": "#000000",
+        "element.hover": "#43bad875",
+        "element.selected": "#43bad875",
+        "ghost_element.hover": "#43bad875",
+        "ghost_element.selected": "#43bad875",
+        "text": "#FFFFFF",
+        "text.muted": "#FFFFFF",
+        "status_bar.background": "#000000",
+        "title_bar.background": "#000000",
+        "toolbar.background": "#000000",
+        "tab_bar.background": "#000000",
+        "tab.inactive_background": "#000000",
+        "tab.active_background": "#000000",
+        "search.match_background": "#6688cc",
+        "panel.background": "#000000",
+        "pane_group.border": "#43bad875",
+        "scrollbar.track.background": "#000000",
+        "editor.foreground": "#FFFFFF",
+        "editor.background": "#000000",
+        "editor.gutter.background": "#000000",
+        "editor.line_number": "#43B9D8",
+        "editor.active_line_number": "#FFFFFF",
+        "editor.wrap_guide": "#43bad875",
+        "editor.active_wrap_guide": "#43bad875",
+        "terminal.ansi.black": "#8f8f8f",
+        "terminal.ansi.bright_black": "#8f8f8f",
+        "terminal.ansi.red": "#f82a5d",
+        "terminal.ansi.bright_red": "#f82a5d",
+        "terminal.ansi.green": "#98d800",
+        "terminal.ansi.bright_green": "#98d800",
+        "terminal.ansi.yellow": "#e7dc60",
+        "terminal.ansi.bright_yellow": "#e7dc60",
+        "terminal.ansi.blue": "#5ccaef",
+        "terminal.ansi.bright_blue": "#5ccaef",
+        "terminal.ansi.magenta": "#f57f00",
+        "terminal.ansi.bright_magenta": "#f57f00",
+        "terminal.ansi.cyan": "#a57fff",
+        "terminal.ansi.bright_cyan": "#a57fff",
+        "terminal.ansi.white": "#f1f1f1",
+        "terminal.ansi.bright_white": "#f1f1f1",
+        "hidden": "#FFFFFF",
+        "hint": "#969696ff",
+        "players": [],
+        "syntax": {
+          "attribute": {
+            "color": "#A6E22E"
+          },
+          "boolean": {
+            "color": "#AE81FF"
+          },
+          "comment": {
+            "color": "#FD971F"
+          },
+          "comment.doc": {
+            "color": "#FD971F"
+          },
+          "constant": {
+            "color": "#AE81FF"
+          },
+          "constructor": {
+            "color": "#F92672",
+            "font_weight": 700
+          },
+          "function": {
+            "color": "#A6E22E"
+          },
+          "keyword": {
+            "color": "#F92672",
+            "font_weight": 700
+          },
+          "number": {
+            "color": "#AE81FF"
+          },
+          "punctuation": {
+            "color": "#FFFFFF"
+          },
+          "punctuation.bracket": {
+            "color": "#FFFFFF"
+          },
+          "punctuation.delimiter": {
+            "color": "#FFFFFF"
+          },
+          "punctuation.list_marker": {
+            "color": "#FFFFFF"
+          },
+          "punctuation.special": {
+            "color": "#FFFFFF"
+          },
+          "string": {
+            "color": "#E6DB74"
+          },
+          "string.escape": {
+            "color": "#AE81FF"
+          },
+          "string.regex": {
+            "color": "#E6DB74"
+          },
+          "string.special": {
+            "color": "#E6DB74"
+          },
+          "string.special.symbol": {
+            "color": "#E6DB74"
+          },
+          "tag": {
+            "color": "#F92672",
+            "font_weight": 700
+          },
+          "text.literal": {
+            "color": "#E6DB74"
+          },
+          "type": {
+            "color": "#66D9EF",
+            "font_style": "italic"
+          },
+          "variable": {
+            "color": "#A6E22E"
+          },
+          "variable.special": {
+            "color": "#A6E22E"
+          }
+        }
+      },
+      "$schema": "https://zed.dev/schema/themes/v0.2.0.json"
+    }
+  ]
+}
