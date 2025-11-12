@@ -1,12 +1,14 @@
 {
+  "buffer_font_family": "FiraCode Nerd Font",
+  "ui_font_family": ".ZedSans",
+  "icon_theme": "Material Icon Theme",
   "ui_font_size": 16,
   "buffer_font_size": 13,
-  "buffer_font_family": "FiraCode Nerd Font",
   "soft_wrap": "editor_width",
   "theme": {
     "mode": "system",
     "light": "One Light",
-    "dark": "GitHub Dark Default"
+    "dark": "Monokai Charcoal"
   },
   "indent_guides": {
     "enabled": false,
