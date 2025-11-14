@@ -1,7 +1,4 @@
 {
-  "minimap": {
-    "show": "auto"
-  },
   "buffer_font_family": "FiraCode Nerd Font",
   "ui_font_family": ".ZedSans",
   "icon_theme": "Material Icon Theme",
